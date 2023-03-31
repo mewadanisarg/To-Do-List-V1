@@ -27,7 +27,7 @@ const Item = mongoose.model("Item", itemsSchema);
 /* const items = ["Buy Food", "Cook Food", "Eat Food"];
 const workItems = []; */
 
-const item1 = new Item({
+/* const item1 = new Item({
   name: "Buy Food",
 }) 
 
@@ -39,7 +39,7 @@ const item3 = new Item({
   name: "Clean Car",
 })
 
-const defaultItems = [item1, item2, item3];
+const defaultItems = [item1, item2, item3]; */
 
 const listSchema = new mongoose.Schema({
   name:{
