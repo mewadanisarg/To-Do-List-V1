@@ -23,7 +23,7 @@
     </ul>
 </details>
  
-- There are two pages for this web app, one is for normal daily use and another for work prurpose.
+- There are two pages for this web app, one is for normal daily use and another for work purpose.
  
  # First Look
  
