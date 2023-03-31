@@ -146,6 +146,6 @@ if (port == null || port == "") {
   port = 3000;
 }
 
-app.listen(port, function() {
+app.listen(https.createServer(app).listen(PORT), function() {
   console.log("Server started on port 3000");
 })
